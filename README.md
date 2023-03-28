@@ -1,3 +1,8 @@
+
+---
+[![](https://visitcount.itsvg.in/api?id=Majumder99&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
 # 💫 About Me:
 I'm Sourav Majumder. I'm currently working with Prottoy which is a tech farm in Dhaka, Bangladesh. Recently, I'm trying to get to know about blockchain. <br>
 
@@ -21,8 +26,3 @@ I'm Sourav Majumder. I'm currently working with Prottoy which is a tech farm in 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Majumder99&icon=2&color=0)](https://visitcount.itsvg.in)
