@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-I'm Sourav Majumder. I'm currently working with Prottoy which is a tech farm in Dhaka, Bangladesh. Recently, I'm trying to get to know about blockchain. <br>
+I'm Sourav Majumder. I'm currently working at zatiq which is a software company in Bangladesh. I'm here as a Jnr software developer. I have known web, app and blockchain development for over 3 years. Thank you for visiting my profile. <br>
 
 
 ## 🌐 Socials:
